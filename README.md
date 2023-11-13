@@ -31,3 +31,11 @@ ______________________
 `sobahi-et-al.ipynb` is a notebook containing the codes and results of the training of the model proposed by Sobahi et al. on all the training samples (a benchmark model).
 
 `ribeiro-et-al.ipynb` is a notebook containing the codes and results of the training of the model proposed by Ribeiro et al. on all the training samples (a benchmark model).
+
+
+
+
+All the trained models can be accessed via the following link:
+
+[Link]([https://pages.github.com/](https://drive.google.com/drive/folders/1S7EihnnilsTMQZtOr7bIOwGyYo7p4uQP?usp=sharing)https://drive.google.com/drive/folders/1S7EihnnilsTMQZtOr7bIOwGyYo7p4uQP?usp=sharing).
+
