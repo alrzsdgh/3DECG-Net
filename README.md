@@ -5,7 +5,7 @@ The **123ECG preprocessing framework** exhibits the capability to process 12-lea
 
 ![123ECG preprocessing framework](123ecg.png)
 ______________________
-The ***3DECG-Net model** excels in its ability to classify heart statuses in a multi-label fashion, surpassing other state-of-the-art models in the domain. The demonstrated proficiency of 3DECG-Net positions it as a viable candidate for clinical applications, further solidifying its potential utility in the field.
+The **3DECG-Net model** excels in its ability to classify heart statuses in a multi-label fashion, surpassing other state-of-the-art models in the domain. The demonstrated proficiency of 3DECG-Net positions it as a viable candidate for clinical applications, further solidifying its potential utility in the field.
 
 ![3DECG-Net](ECGNet.png)
 ______________________
