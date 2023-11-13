@@ -37,5 +37,5 @@ ______________________
 
 All the trained models can be accessed via the following link:
 
-[Link]([https://pages.github.com/](https://drive.google.com/drive/folders/1S7EihnnilsTMQZtOr7bIOwGyYo7p4uQP?usp=sharing)https://drive.google.com/drive/folders/1S7EihnnilsTMQZtOr7bIOwGyYo7p4uQP?usp=sharing).
+[Link](https://drive.google.com/drive/folders/1S7EihnnilsTMQZtOr7bIOwGyYo7p4uQP?usp=drive_link).
 
