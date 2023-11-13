@@ -10,4 +10,18 @@ The **3DECG-Net model** excels in its ability to classify heart statuses in a mu
 ![3DECG-Net](ECGNet.png)
 ______________________
 
+`preprocess.py` contains the preprocessing steps.
+
 `models.py` contains the architecture of 3DECG-Net and benchmark models.
+
+`3DECG-Net-Fold1.ipynb` is a notebook containing the codes and results of training fold 1 of 3DECG-Net.
+
+`3DECG-Net-Fold2.ipynb` is a notebook containing the codes and results of training fold 2 of 3DECG-Net.
+
+`3DECG-Net-Fold3.ipynb` is a notebook containing the codes and results of training fold 3 of 3DECG-Net.
+
+`3DECG-Net-Fold4.ipynb` is a notebook containing the codes and results of training fold 4 of 3DECG-Net.
+
+`3DECG-Net-Fold5.ipynb` is a notebook containing the codes and results of training fold 5 of 3DECG-Net.
+
+`3DECG-Net.ipynb` is a notebook containing the codes and results of the training of 3DECG-Net on all the training samples.
