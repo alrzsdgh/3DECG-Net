@@ -25,3 +25,9 @@ ______________________
 `3DECG-Net-Fold5.ipynb` is a notebook containing the codes and results of training fold 5 of 3DECG-Net.
 
 `3DECG-Net.ipynb` is a notebook containing the codes and results of the training of 3DECG-Net on all the training samples.
+
+`zhang-et-al.ipynb` is a notebook containing the codes and results of the training of the model proposed by Zhang et al. on all the training samples (a benchmark model).
+
+`sobahi-et-al.ipynb` is a notebook containing the codes and results of the training of the model proposed by Sobahi et al. on all the training samples (a benchmark model).
+
+`ribeiro-et-al.ipynb` is a notebook containing the codes and results of the training of the model proposed by Ribeiro et al. on all the training samples (a benchmark model).
