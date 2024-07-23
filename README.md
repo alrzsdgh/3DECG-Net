@@ -9,6 +9,10 @@ The **3DECG-Net model** excels in its ability to classify heart statuses in a mu
 
 ![3DECG-Net](Repo_Images/Model_arch.png)
 ______________________
+We also utilized the **Local Interpretable Model-Agnostic Explanations (LIME)** technique to show the importance of each lead in detecting different arrhythmias using 3DECG-Net. The results of this analysis demonstrated that our model processes 12-lead ECG signals in a manner similar to clinicians, making it reliable and trustworthy for practical use as an automatic ECG interpreter in medical centers.
+
+![3DECG-Net](Repo_Images/XAI.png)
+______________________
 
 `preprocess.py` contains the preprocessing steps.
 
