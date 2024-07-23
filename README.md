@@ -7,7 +7,7 @@ The **ECG 3D Converter** exhibits the capability to process 12-lead ECG recordin
 ______________________
 The **3DECG-Net model** excels in its ability to classify heart statuses in a multi-label fashion, surpassing other state-of-the-art models in the domain. The demonstrated proficiency of 3DECG-Net positions it as a viable candidate for clinical applications, further solidifying its potential utility in the field.
 
-![3DECG-Net](ECGNet.png)
+![3DECG-Net](Repo_Images/Model_arch.png)
 ______________________
 
 `preprocess.py` contains the preprocessing steps.
