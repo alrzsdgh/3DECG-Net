@@ -1,9 +1,9 @@
 # 3DECG-Net
 This repository contains the materials related to the 3DECG-Net study. In this study, we developed an innovative preprocessing framework for processing 12-lead electrocardiogram (ECG) recordings. We also created a novel 3D deep learning model to classify 12-lead ECG signals into seven distinct heart conditions: Normal Sinus Rhythm (NSR), Atrial Fibrillation (AF), First-Degree Atrioventricular Block (I-AVB), Left Bundle Branch Block (LBBB), Right Bundle Branch Block (RBBB), Sinus Bradycardia (SB), and Supraventricular Tachycardia (STach). Additionally, we implemented the LIME technique to reveal each lead's impact on the classification of each arrhythmia.
 ______________________
-The **123ECG preprocessing framework** exhibits the capability to process 12-lead ECG recordings while ensuring the provision of high-level recordings without compromising the quality of the signals. This feature proves particularly advantageous in practical scenarios where storage hardware is constrained, and there exists an imperative demand for high-quality, lightweight data.
+The **ECG 3D Converter** exhibits the capability to process 12-lead ECG recordings while ensuring the provision of high-level recordings without compromising the quality of the signals. This feature proves particularly advantageous in practical scenarios where storage hardware is constrained, and there exists an imperative demand for high-quality, lightweight data.
 
-![123ECG preprocessing framework](123ecg.png)
+![ECG 3D Converter preprocessing framework](Repo_Images/Preprocess.png)
 ______________________
 The **3DECG-Net model** excels in its ability to classify heart statuses in a multi-label fashion, surpassing other state-of-the-art models in the domain. The demonstrated proficiency of 3DECG-Net positions it as a viable candidate for clinical applications, further solidifying its potential utility in the field.
 
