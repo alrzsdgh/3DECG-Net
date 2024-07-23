@@ -14,32 +14,29 @@ We also utilized the **Local Interpretable Model-Agnostic Explanations (LIME)** 
 ![3DECG-Net](Repo_Images/XAI.png)
 ______________________
 
-`preprocess.py` contains the preprocessing steps.
+Folders in this repository contain:
 
-`models.py` contains the architecture of 3DECG-Net and benchmark models.
 
-`3DECG-Net-Fold1.ipynb` is a notebook containing the codes and results of training fold 1 of 3DECG-Net.
+- `3DECG-Net`: The implementation of our proposed model and its different folds.
+  
+- `Benchmark-Models`: The implementation of the benchmark models.
+  
+- `Repo_images`: The images used in this repository.
+  
+- `Utilities`: A series of functions utilized in different notebooks of this project.
+  
+- `XAI`: The implementation of the LIME technique for each target arrhythmia.
 
-`3DECG-Net-Fold2.ipynb` is a notebook containing the codes and results of training fold 2 of 3DECG-Net.
 
-`3DECG-Net-Fold3.ipynb` is a notebook containing the codes and results of training fold 3 of 3DECG-Net.
-
-`3DECG-Net-Fold4.ipynb` is a notebook containing the codes and results of training fold 4 of 3DECG-Net.
-
-`3DECG-Net-Fold5.ipynb` is a notebook containing the codes and results of training fold 5 of 3DECG-Net.
-
-`3DECG-Net.ipynb` is a notebook containing the codes and results of the training of 3DECG-Net on all the training samples.
-
-`zhang-et-al.ipynb` is a notebook containing the codes and results of the training of the model proposed by Zhang et al. on all the training samples (a benchmark model).
-
-`sobahi-et-al.ipynb` is a notebook containing the codes and results of the training of the model proposed by Sobahi et al. on all the training samples (a benchmark model).
-
-`ribeiro-et-al.ipynb` is a notebook containing the codes and results of the training of the model proposed by Ribeiro et al. on all the training samples (a benchmark model).
 
 
 
 
 All the trained models can be accessed via the following link:
 
-[Link](https://drive.google.com/drive/folders/1S7EihnnilsTMQZtOr7bIOwGyYo7p4uQP?usp=drive_link).
+[Link to the trained models](https://drive.google.com/drive/folders/1S7EihnnilsTMQZtOr7bIOwGyYo7p4uQP?usp=drive_link).
+
+
+
+This study is currently under review in the **Computer in Biology and Medicine** journal.
 
