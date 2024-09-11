@@ -38,5 +38,8 @@ All the trained models can be accessed via the following link:
 
 
 
-This study is currently under review in the **Computer in Biology and Medicine** journal.
+# How to cite
+If you utilized this repository, please cite:
+
+> Sadeghi, A., Hajati, F., Rezaee, A., Sadeghi, M., Argha, A., & Alinejad-Rokny, H. (2024). 3DECG-Net: ECG fusion network for multi-label cardiac arrhythmia detection. Computers in Biology and Medicine, 182, 109126. https://doi.org/10.1016/j.compbiomed.2024.109126
 
